@@ -36,7 +36,7 @@ const Nav = () => {
                     </div>
                     <div className='flex justify-end space-x-2 xl:space-x-0 xl:justify-evenly items-center w-full xl:w-2/12'>
                         <div className='p-2 cursor-pointer font-semibold bg-Mont-white-100 text-black hover:text-white hover:bg-Mont-Hover-blue-100 transition-all duration-300 rounded-lg text-center flex items-center'>
-                            <a href='#'>Litepaper</a>
+                            <a >Litepaper</a>
                         </div>
                         <div className=' border rounded-md p-2 cursor-pointer border-Mont-white-100 hover:bg-Mont-Hover-blue-100 transition-all duration-300'>
                             <h1 className='text-white '>EN</h1>

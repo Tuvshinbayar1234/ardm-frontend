@@ -66,7 +66,7 @@ function App() {
         <div className='bg-ardmBlack py-10 w-screen bg-Mont-blue-150'>
           <div className='container mx-auto text-center lg:text-left'>
               <div className="flex justify-between items-center">
-                <a href='https://www.dsolutions.mn/' className='text-lg text-white font-medium cursor-pointer hover:text-ardmYellow'>
+                <a href='#' className='text-lg text-white font-medium cursor-pointer hover:text-ardmYellow'>
                     © Diverse Solutions
                 </a>
                 <div className='flex flex-wrap items-center justify-center'>
